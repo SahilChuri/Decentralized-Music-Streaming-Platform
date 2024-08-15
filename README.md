@@ -8,7 +8,7 @@ Welcome to our decentralized music streaming platform, a cutting-edge solution t
 Our platform uses advanced ML algorithms to analyze user preferences and listening habits, offering personalized music recommendations that cater to individual tastes. By integrating NLP, we ensure that users can discover music based on mood, lyrics, and other contextual factors.
 
 ### 🎤 Lyrics Generation
-Leveraging NLP, our platform can generate lyrics from songs, providing users with a creative and interactive way to engage with music. Whether you're looking to remix a song or simply explore lyrical content, our NLP-driven feature offers endless possibilities.
+Leveraging NLP, our platform can generate lyrics from songs, providing users with a creative and interactive way to engage with music.
 
 ### 🔐 Secure and Transparent Transactions
 Utilizing Blockchain technology, our platform ensures that all transactions, whether for music purchases, subscriptions, or artist royalties, are secure and transparent. Smart contracts automate payments and revenue sharing, ensuring fairness and accuracy.
